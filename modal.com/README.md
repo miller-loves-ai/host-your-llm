@@ -30,9 +30,9 @@ Before you begin, make sure you have:
 ### Clone this repository and navigate to the model directory:
    ```bash
    git clone https://github.com/miller-loves-ai/host-your-llm.git
-   cd modal.com/lumo_8b  # For Lumo-8B
+   cd host-your-llm/modal.com/lumo_8b  # For Lumo-8B
    # or
-   cd modal.com/lumo_70b # For Lumo-70B
+   cd host-your-llm/modal.com/lumo_70b # For Lumo-70B
    ```
 
 ### Download the model weights:

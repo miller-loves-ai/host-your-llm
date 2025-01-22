@@ -1,5 +1,6 @@
 # host-your-llm
-Help you to host your own LLM
+Help you to host your own LLM.
+
 See `./model.com`
 
 # Todo:

@@ -8,6 +8,8 @@ Please notice that Modal and other serverless platforms suffer from cold startin
 
 Modal grants $30 credit per month for free, which should be enough for running your own agent on Lumo-8B.
 
+If you find this tutoril helpful please leave a star ⭐️ on the repo.
+
 ## Prerequisites
 
 Before you begin, make sure you have:

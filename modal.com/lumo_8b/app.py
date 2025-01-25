@@ -26,7 +26,7 @@ MODELS_DIR = "/lumo8b"
 # you may need to adjust max_model_len to fit your GPU and your task
 # also longer max model len results in longer warm-up time
 COMMEND_LINE = f"vllm serve {MODELS_DIR}/lumolabs-ai/Lumo-8B-Instruct/Lumo-8B-Instruct-FT-Q4_0.gguf " + \
-                f"--tokenizer {MODELS_DIR}/meta-llama/Llama-3.1-8B-Instruct " + \
+                f"--tokenizer {MODELS_DIR}/NaniDAO/Meta-Llama-3.1-8B-Instruct-ablated-v1 " + \
                 f"--api-key {API_KEY} " + \
                 "--max_model_len=16000 " + \
                 "--seed 42 " + \

@@ -16,8 +16,8 @@ ignore_patterns=[
     "original/*",
 ] # Keep gguf
 NEED_HF_TOKEN = False
-EXTERNAL_TOKENIZER = "lumolabs-ai/Lumo-8B-Instruct"
-TOKENIZER_REVISION = "d707cec65165f5c65fdf586e1efec5fd895933d6"
+EXTERNAL_TOKENIZER = "NaniDAO/Meta-Llama-3.1-8B-Instruct-ablated-v1"
+TOKENIZER_REVISION = "4f3e53cbb106f493459690a84b87c83d646c8223"
 """ You typically don't change the following code """
 
 image = (

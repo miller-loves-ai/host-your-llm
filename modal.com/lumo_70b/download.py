@@ -18,6 +18,8 @@ ignore_patterns=[
 NEED_HF_TOKEN = False
 EXTERNAL_TOKENIZER = "NaniDAO/Llama-3.3-70B-Instruct-ablated"
 TOKENIZER_REVISION = "1fa068b30a040e75e1c437695227990cf5be24d5"
+
+
 """ You typically don't change the following code """
 
 image = (
